@@ -1,5 +1,8 @@
 # Nav2 Demo TurtleBot3
 
+![Resim Açıklaması](https://github.com/gulslamoglu/gulslamoglu--Nav2-Project---build-a-Patrolling-Robot/blob/master/Screenshot%20from%202024-03-09%2019-14-16.png)
+
+
 Bu depo, ROS 2'de Navigation 2 çerçevesinin kullanımını TurtleBot3 Gazebo simülasyonu ile göstermektedir. Bu proje, robotun belirli bir alanı (basitleştirme amacıyla haritada 4 konum belirlenmiştir) devriye gezmek üzere programlanmasını içerir.
 
 Bu çalışma, Hummingbird Robotics demosundan esinlenilmiştir. Umuyoruz ki bu, ROS 2'de Navigation 2 ile çalışmaya başlamak için harika bir temel oluşturur.
