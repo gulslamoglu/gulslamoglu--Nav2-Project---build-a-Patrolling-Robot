@@ -1,0 +1,1 @@
+/home/gulislamoglu/turtlebot3_patrolling/build/turtlebot3_fake_node/ament_cmake_export_dependencies/ament_cmake_export_dependencies-extras.cmake

@@ -1,0 +1,17 @@
+[1.780s] Invoking command in '/home/gulislamoglu/turtlebot3_patrolling/build/turtlebot3_teleop': PYTHONPATH=/home/gulislamoglu/turtlebot3_patrolling/build/turtlebot3_teleop/prefix_override:/home/gulislamoglu/turtlebot3_patrolling/install/turtlebot3_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/gulislamoglu/turtlebot3_patrolling/build/turtlebot3_teleop/build --no-deps install_data
+[2.070s] running develop
+[2.230s] running egg_info
+[2.231s] writing turtlebot3_teleop.egg-info/PKG-INFO
+[2.231s] writing dependency_links to turtlebot3_teleop.egg-info/dependency_links.txt
+[2.232s] writing entry points to turtlebot3_teleop.egg-info/entry_points.txt
+[2.232s] writing requirements to turtlebot3_teleop.egg-info/requires.txt
+[2.232s] writing top-level names to turtlebot3_teleop.egg-info/top_level.txt
+[2.234s] reading manifest file 'turtlebot3_teleop.egg-info/SOURCES.txt'
+[2.235s] writing manifest file 'turtlebot3_teleop.egg-info/SOURCES.txt'
+[2.237s] running build_ext
+[2.237s] Creating /home/gulislamoglu/turtlebot3_patrolling/install/turtlebot3_teleop/lib/python3.10/site-packages/turtlebot3-teleop.egg-link (link to .)
+[2.238s] Installing teleop_keyboard script to /home/gulislamoglu/turtlebot3_patrolling/install/turtlebot3_teleop/lib/turtlebot3_teleop
+[2.239s] 
+[2.239s] Installed /home/gulislamoglu/turtlebot3_patrolling/build/turtlebot3_teleop
+[2.239s] running install_data
+[2.305s] Invoked command in '/home/gulislamoglu/turtlebot3_patrolling/build/turtlebot3_teleop' returned '0': PYTHONPATH=/home/gulislamoglu/turtlebot3_patrolling/build/turtlebot3_teleop/prefix_override:/home/gulislamoglu/turtlebot3_patrolling/install/turtlebot3_teleop/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/gulislamoglu/turtlebot3_patrolling/build/turtlebot3_teleop/build --no-deps install_data

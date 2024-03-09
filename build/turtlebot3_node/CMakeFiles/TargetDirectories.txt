@@ -1,0 +1,11 @@
+/home/gulislamoglu/turtlebot3_patrolling/build/turtlebot3_node/CMakeFiles/uninstall.dir
+/home/gulislamoglu/turtlebot3_patrolling/build/turtlebot3_node/CMakeFiles/turtlebot3_node_uninstall.dir
+/home/gulislamoglu/turtlebot3_patrolling/build/turtlebot3_node/CMakeFiles/turtlebot3_node_lib.dir
+/home/gulislamoglu/turtlebot3_patrolling/build/turtlebot3_node/CMakeFiles/turtlebot3_ros.dir
+/home/gulislamoglu/turtlebot3_patrolling/build/turtlebot3_node/CMakeFiles/test.dir
+/home/gulislamoglu/turtlebot3_patrolling/build/turtlebot3_node/CMakeFiles/edit_cache.dir
+/home/gulislamoglu/turtlebot3_patrolling/build/turtlebot3_node/CMakeFiles/rebuild_cache.dir
+/home/gulislamoglu/turtlebot3_patrolling/build/turtlebot3_node/CMakeFiles/list_install_components.dir
+/home/gulislamoglu/turtlebot3_patrolling/build/turtlebot3_node/CMakeFiles/install.dir
+/home/gulislamoglu/turtlebot3_patrolling/build/turtlebot3_node/CMakeFiles/install/local.dir
+/home/gulislamoglu/turtlebot3_patrolling/build/turtlebot3_node/CMakeFiles/install/strip.dir

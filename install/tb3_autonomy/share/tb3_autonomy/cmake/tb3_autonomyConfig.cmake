@@ -1,0 +1,1 @@
+/home/gulislamoglu/turtlebot3_patrolling/build/tb3_autonomy/ament_cmake_core/tb3_autonomyConfig.cmake

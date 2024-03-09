@@ -1,0 +1,18 @@
+[1.781s] Invoking command in '/home/gulislamoglu/turtlebot3_patrolling/build/tb3_sim': PYTHONPATH=/home/gulislamoglu/turtlebot3_patrolling/build/tb3_sim/prefix_override:/home/gulislamoglu/turtlebot3_patrolling/install/tb3_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/gulislamoglu/turtlebot3_patrolling/build/tb3_sim/build --no-deps install_data
+[2.081s] running develop
+[2.276s] running egg_info
+[2.276s] writing tb3_sim.egg-info/PKG-INFO
+[2.276s] writing dependency_links to tb3_sim.egg-info/dependency_links.txt
+[2.277s] writing entry points to tb3_sim.egg-info/entry_points.txt
+[2.277s] writing requirements to tb3_sim.egg-info/requires.txt
+[2.277s] writing top-level names to tb3_sim.egg-info/top_level.txt
+[2.279s] reading manifest file 'tb3_sim.egg-info/SOURCES.txt'
+[2.280s] writing manifest file 'tb3_sim.egg-info/SOURCES.txt'
+[2.282s] running build_ext
+[2.282s] Creating /home/gulislamoglu/turtlebot3_patrolling/install/tb3_sim/lib/python3.10/site-packages/tb3-sim.egg-link (link to .)
+[2.283s] Installing amcl_init_pose_publisher script to /home/gulislamoglu/turtlebot3_patrolling/install/tb3_sim/lib/tb3_sim
+[2.283s] 
+[2.283s] Installed /home/gulislamoglu/turtlebot3_patrolling/build/tb3_sim
+[2.284s] running install_data
+[2.284s] copying config/sim_house_locations.yaml -> /home/gulislamoglu/turtlebot3_patrolling/install/tb3_sim/share/tb3_sim/config/
+[2.664s] Invoked command in '/home/gulislamoglu/turtlebot3_patrolling/build/tb3_sim' returned '0': PYTHONPATH=/home/gulislamoglu/turtlebot3_patrolling/build/tb3_sim/prefix_override:/home/gulislamoglu/turtlebot3_patrolling/install/tb3_sim/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/gulislamoglu/turtlebot3_patrolling/build/tb3_sim/build --no-deps install_data

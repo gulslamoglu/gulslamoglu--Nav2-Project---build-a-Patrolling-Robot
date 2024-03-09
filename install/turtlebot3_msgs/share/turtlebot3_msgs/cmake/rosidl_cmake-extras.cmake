@@ -1,0 +1,1 @@
+/home/gulislamoglu/turtlebot3_patrolling/build/turtlebot3_msgs/rosidl_cmake/rosidl_cmake-extras.cmake

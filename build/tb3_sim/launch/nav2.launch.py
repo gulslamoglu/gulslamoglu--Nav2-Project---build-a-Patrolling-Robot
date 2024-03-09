@@ -1,0 +1,1 @@
+/home/gulislamoglu/turtlebot3_patrolling/src/tb3_sim/launch/nav2.launch.py
